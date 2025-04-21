@@ -4,9 +4,11 @@ Este é um projeto simples de um sorteador de números, desenvolvido para pratic
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estrutura da página.
-- **CSS**: Estilização da interface, incluindo gradientes, sombras e responsividade.
-- **JavaScript**: Lógica de sorteio e manipulação do DOM.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ## O que Aprendi Durante o Desenvolvimento
 
